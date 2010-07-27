@@ -1,5 +1,5 @@
 %define upstream_name    File-Find-Upwards
-%define upstream_version 1.100860
+%define upstream_version 1.102030
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
